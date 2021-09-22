@@ -1,4 +1,4 @@
-# Auto redirection "Free Shop" Tinfoil by raytan1807
+# Auto redirection "Free Shop" for Tinfoil by raytan1807
 Redirecting all famous free shop server to Tinfoil via tinfoilshop.json
 * You don't need to add every single shop link manually
 
