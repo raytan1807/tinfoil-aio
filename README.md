@@ -95,6 +95,12 @@ Host: tiny.cc
 Path: turtleshop
 Title: tits2
 ```
+```
+# Stealth Shop (cannot use)
+Protocol: https
+Host: stealthshop.cf/world
+Title: Stealth Shop
+```
 
 # Disclaimer
 This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
