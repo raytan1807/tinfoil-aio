@@ -70,7 +70,7 @@ Title: Jack in the Shop
 ```
 # HBG Shop (hbg) (closed)
 Protocol: https
-Host: https
+Host: thehbg.shop
 Path: //hbgshop.ga/ng/
 Title: Homebrew Gang
 ```
