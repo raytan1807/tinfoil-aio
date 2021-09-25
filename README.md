@@ -80,7 +80,7 @@ Protocol: https
 Host: thehbg.shop
 Path: //hbgshop.ga/ng/
 Title: Homebrew Gang
-Discord: https://discord.gg/kW29m2hv
+Discord: https://discord.com/invite/kW29m2h
 ```
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
