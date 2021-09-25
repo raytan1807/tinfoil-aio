@@ -59,7 +59,7 @@ Protocol: https
 Host: titz.cf
 Title: tits
 ```
----Backup---
+---Closed/Backup---
 ```
 # Jack in the Shop (jits) (closed)
 Protocol: https
