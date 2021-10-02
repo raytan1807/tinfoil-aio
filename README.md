@@ -1,10 +1,10 @@
-# Auto redirection "Free Shop" for Tinfoil
-Auto redirecting to all famous free shop server for Tinfoil via tinfoilshop.json
+# AIO "Free Shop" redirect for Tinfoil
+Auto redirecting all active free shop server to Tinfoil via tinfoilshop.json
 * You don't need to add every single shop link manually
-* Please note that it might take 3 ~ 5 mins for first setup. Don't freak out !
+* Please note that it will take some time to load and refresh all the links everytime you start up Tinfoil. Don't freak out !
 
 # How to use
-Only add the link below in Tinfoil. It will automatically add all the shops listed below for you.
+Only add one link below in Tinfoil and it will automatically add all the shops listed below for you.
 
 ```
 Protocol: https
