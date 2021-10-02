@@ -10,7 +10,6 @@ Only add one link below in Tinfoil and it will automatically add all the shops l
 Protocol: https
 Host: raw.githubusercontent.com
 Path: raytan1807/tinfoil-aio/master/tinfoilshop.json
-Titles: raytan1807
 ```
 
 ---------------------------------------------
