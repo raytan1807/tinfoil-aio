@@ -1,5 +1,5 @@
-# AIO "Free Shop" redirect for Tinfoil
-Auto redirecting all active free shop server to Tinfoil via tinfoilshop.json
+# AIO "Free Shop" server redirect for Tinfoil
+Auto redirect all active free shop server to Tinfoil via tinfoilshop.json
 * You don't need to add every single shop link manually
 * Please note that it will take some time to load and refresh all the links everytime you start up Tinfoil. Don't freak out !
 
@@ -64,6 +64,14 @@ Host: titz.cf
 Title: tits
 Discord: https://discord.gg/eeGRy63U2F
 ```
+---Paid---
+```
+# Kronos Zenten Shop (Require license purchased from kronos)
+Protocol: https
+Host: myrincon.duckdns.org
+Path: net/Zenten
+Title: Kronos Zenten Shop
+```
 ---Closed/Backup---
 ```
 # Jack in the Shop (jits) (closed)
@@ -109,5 +117,20 @@ Host: stealthshop.cf/world
 Title: Stealth Shop
 ```
 
+# Credits
+=====
+All the "Free Shops" listed above are owned and maintained by their respective server owner.
+In no particular order, we credit the following and their members for their invaluable contributions:
+
+* __[Eevee Save Project](https://discord.gg/nxrSSs9)__ 
+* __[Stealth Shop](https://discord.gg/EZMAupDvWE)__
+* __[Nekoshop](https://discord.gg/pytKu48eMk)__
+* __[QuotaShop](https://discord.gg/kjvT5ah)__
+* __ReDUMP SHOP__
+* __[Pengu shop](https://discord.gg/VAadvt9KFH)__
+* __[Turtle Shop](https://discord.gg/eeGRy63U2F)__
+* __Kronos2308__
+
 # Disclaimer
+=====
 This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
