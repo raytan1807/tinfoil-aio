@@ -118,7 +118,7 @@ Title: Stealth Shop
 ```
 
 # Credits
-=====
+
 All the "Free Shops" listed above are owned and maintained by their respective server owner.
 In no particular order, we credit the following and their members for their invaluable contributions:
 
@@ -132,5 +132,5 @@ In no particular order, we credit the following and their members for their inva
 * __Kronos2308__
 
 # Disclaimer
-=====
+
 This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
