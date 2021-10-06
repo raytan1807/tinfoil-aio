@@ -4,7 +4,7 @@ Auto redirect all active free shop server to Tinfoil via tinfoilshop.json
 * Please note that it will take some time to load and refresh all the links everytime you start up Tinfoil. Don't freak out !
 
 # How to use
-Only add one link below in Tinfoil and it will automatically add all the shops listed below for you.
+Only add one link below in Tinfoil and it will automatically redirect and add all the shops listed below for you.
 
 ```
 Protocol: https
@@ -21,28 +21,24 @@ Protocol: https
 Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
-Discord: https://discord.gg/nxrSSs9
 ```
 ```
 # Stealth Shop
 Protocol: https
 Host: stealthshop.cf
 Title: Stealth Shop
-Discord: https://discord.gg/EZMAupDvWE
 ```
 ```
 # Nekoshop
 Protocol: https
 Host: nekoshop.cf
 Title: Nekoshop
-Discord: https://discord.gg/pytKu48eMk
 ```
 ```
 # QuotaShop
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
-Discord: https://discord.gg/kjvT5ah
 ```
 ```
 # ReDUMP SHOP
@@ -55,14 +51,12 @@ Title: ReDUMP Shop
 Protocol: https
 Host: pengu.us
 Title: Pengu shop
-Discord: https://discord.gg/VAadvt9KFH
 ```
 ```
 # Turtle Shop (tits)
 Protocol: https
 Host: titz.cf
 Title: tits
-Discord: https://discord.gg/eeGRy63U2F
 ```
 ---Paid---
 ```
@@ -79,7 +73,6 @@ Protocol: https
 Host: jits.cc
 Path: shop
 Title: Jack in the Shop
-Discord: https://discord.gg/UkwVjft
 ```
 ```
 # HBG Shop (hbg) (closed)
@@ -87,7 +80,6 @@ Protocol: https
 Host: thehbg.shop
 Path: //hbgshop.ga/ng/
 Title: Homebrew Gang
-Discord: https://discord.com/invite/kW29m2h
 ```
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
@@ -129,7 +121,9 @@ In no particular order, we credit the following and their members for their inva
 * __ReDUMP SHOP__
 * __[Pengu shop](https://discord.gg/VAadvt9KFH)__
 * __[Turtle Shop](https://discord.gg/eeGRy63U2F)__
-* __Kronos2308__
+* __[Jack in the Shop (jits)](https://discord.gg/UkwVjft)__
+* __[HBG Shop (hbg)](https://discord.com/invite/kW29m2h)__
+* __[Kronos2308](https://www.youtube.com/channel/UC0bSZcylREueGQmCM5mksNg)__
 
 # Disclaimer
 
