@@ -13,7 +13,7 @@ Protocol: https
 Host: raw.githubusercontent.com
 Path: raytan1807/tinfoil-aio/master/tinfoilshop.json
 ```
-3. Wait for a few minutes and it shall redirect and load all the shops listed below in your Tinfoil. (Note: Loading time varies depend on your SD card performance)
+3. Wait for a few minutes and it shall redirect and load all the shops listed below in your Tinfoil. (Note: Loading time may varies depend on your SD card performance)
 4. If you are facing crashes just close and retry the above steps. If the issue still persist then unfortunately this may not work for you and you may have to add the link below one by one. 
 
 ---------------------------------------------
