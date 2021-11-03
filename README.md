@@ -1,18 +1,20 @@
 # AIO "Free Shop" server redirect for Tinfoil
 Auto redirect all active free shop server to Tinfoil via tinfoilshop.json
-* Only add one link below in Tinfoil and it will automatically redirect and add all the shops listed below for you.Only add one link below in Tinfoil and it will automatically redirect and add all the shops listed below for you.
+* Only add one link below in Tinfoil and it will automatically redirect and add all the shops listed below for you.
 * No longer require to add every single shop link manually
 * Please note that it will take some time to load and refresh all the links everytime you launch Tinfoil. Don't panicked !
 
 # Guide
-1. For existing user, locate and delete the file sd:/switch/tinfoil/locations.conf in your SD card. It will regenerate a new one on your next launch.  (Note: New user or if this is your first time using Tinfoil may skip this step)
+1. For existing user, locate and delete the file sd:/switch/tinfoil/locations.conf in your SD card. It will regenerate a new one on your next launch.  
+(Note: New user or if this is your first time using Tinfoil may skip this step)
 2. Launch Tinfoil and press the minus button to add the following link accordingly.
 ```
 Protocol: https
 Host: raw.githubusercontent.com
 Path: raytan1807/tinfoil-aio/master/tinfoilshop.json
 ```
-3. Wait for a few minutes and it shall redirect and load all the shops listed below in your Tinfoil. (Note: Loading time varies depend on your SD card performance)
+3. Wait for a few minutes and it shall redirect and load all the shops listed below in your Tinfoil. 
+(Note: Loading time varies depend on your SD card performance)
 ** If you are facing crashes just close and retry the above steps. If the issue still persist then unfortunately this may not work for you and you may have to add the link below one by one. 
 ---------------------------------------------
 ### AIO "Free Shop" List
