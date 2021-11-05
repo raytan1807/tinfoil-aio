@@ -1,4 +1,4 @@
 {
-    "directories": ["https://redump.cf", "https://titz.cf", "https://quotanx.in", "https://nekoshop.cf", "https://stealthshop.cf", "https://tinfoilhost.voxhost.fr/index.json"],
+    "locations": ["https://redump.cf", "https://titz.cf", "https://quotanx.in", "https://nekoshop.cf", "https://stealthshop.cf", "https://tinfoilhost.voxhost.fr/index.json"],
     "success": "AIO黑商店导入服务器\nAIO Free Shop Redirection Server\n\nSource:\nhttps://github.com/raytan1807/tinfoil-aio"
 }
