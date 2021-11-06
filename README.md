@@ -66,7 +66,6 @@ Title: tits
 # Voxhost Tinfoil Server
 Protocol: https
 Host: tinfoilhost.voxhost.fr
-Path: /index.json
 Title: Voxhost Tinfoil Server
 ```
 ---Paid---
