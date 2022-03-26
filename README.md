@@ -20,11 +20,10 @@ Path: raytan1807/tinfoil-aio/master/tinfoilshop.json
 ### AIO "Free Shop" List
 ---Active---
 ```
-# Eevee Save Project (Auto added by tinfoil)
+# Ecchi's archive (FKA Eevee Save Project) (Auto added by tinfoil)
 Protocol: https
-Host: tiny.cc
-Path: eeveesaveproject
-Title: Eevee Save Project
+Host: e.cchi.me
+Title: ESA
 ```
 ```
 # Stealth Shop
@@ -33,7 +32,7 @@ Host: stealthshop.cf
 Title: Stealth Shop
 ```
 ```
-# Nekoshop
+# Nekoshop (merged with tits)
 Protocol: https
 Host: nekoshop.cf
 Title: Nekoshop
@@ -45,7 +44,7 @@ Host: quotanx.in
 Title: QuotaShop
 ```
 ```
-# ReDUMP SHOP
+# ReDUMP SHOP (longer loading time)
 Protocol: https
 Host: redump.cf
 Title: ReDUMP Shop
@@ -57,17 +56,19 @@ Host: pengu.us
 Title: Pengu shop
 ```
 ```
-# Turtle Shop (tits)
+# A-Network Tinfoil Shop (slower download speed)
+Protocol: nut
+Host: a-network.ca
+Port: 9000
+Username: reddit
+Password: reddit
+Title: A-Network Tinfoil Shop
+```
+# Ecchi firmware archives (download official firmwares)
 Protocol: https
-Host: titz.cf
-Title: tits
-```
-```
-# Voxhost Tinfoil Server
-Protocol: https
-Host: tinfoilhost.voxhost.fr
-Title: Voxhost Tinfoil Server
-```
+Host: e.cchi.me
+Path: firmware.tfl
+Title: EFA
 ---Paid---
 ```
 # Kronos Zenten Shop (Require license purchased from kronos)
@@ -77,6 +78,12 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 ---Closed/Backup---
+```
+# Turtle Shop (tits) (merged with Nekoshop)
+Protocol: https
+Host: titz.cf
+Title: tits
+```
 ```
 # Jack in the Shop (jits) (closed)
 Protocol: https
@@ -90,6 +97,12 @@ Protocol: https
 Host: thehbg.shop
 Path: //hbgshop.ga/ng/
 Title: Homebrew Gang
+```
+```
+# Voxhost Tinfoil Server (cannot use)
+Protocol: https
+Host: tinfoilhost.voxhost.fr
+Title: Voxhost Tinfoil Server
 ```
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
