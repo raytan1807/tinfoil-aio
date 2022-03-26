@@ -64,11 +64,13 @@ Username: reddit
 Password: reddit
 Title: A-Network Tinfoil Shop
 ```
+```
 # Ecchi firmware archives (download official firmwares)
 Protocol: https
 Host: e.cchi.me
 Path: firmware.tfl
 Title: EFA
+```
 ---Paid---
 ```
 # Kronos Zenten Shop (Require license purchased from kronos)
