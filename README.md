@@ -56,6 +56,12 @@ Host: pengu.us
 Title: Pengu shop
 ```
 ```
+# teknik
+Protocol: https
+Host: switch.teknik.app
+Title: teknik
+```
+```
 # A-Network Tinfoil Shop (slower download speed)
 Protocol: nut
 Host: a-network.ca
