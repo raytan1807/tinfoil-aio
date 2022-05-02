@@ -38,12 +38,6 @@ Host: nekoshop.cf
 Title: Nekoshop
 ```
 ```
-# QuotaShop
-Protocol: https
-Host: quotanx.in
-Title: QuotaShop
-```
-```
 # ReDUMP SHOP (longer loading time)
 Protocol: https
 Host: redump.cf
@@ -86,6 +80,12 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 ---Closed/Backup---
+```
+# QuotaShop
+Protocol: https
+Host: quotanx.in
+Title: QuotaShop
+```
 ```
 # Turtle Shop (tits) (merged with Nekoshop)
 Protocol: https
