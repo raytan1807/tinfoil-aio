@@ -1,5 +1,5 @@
-# AIO "Free Shop" server redirect for Tinfoil
-Auto redirect all active free shop server to Tinfoil via tinfoilshop.json
+# AIO "Free Shop" forwarder for Tinfoil
+Auto redirecting active free shop servers to Tinfoil via tinfoilshop.json
 * Only add one link below in Tinfoil and it will automatically redirect and add all the shops listed below for you.
 * No longer require to add every single shop link manually
 * Please note that it will take some time to load and refresh all the links everytime you launch Tinfoil. Don't panicked !
@@ -161,4 +161,8 @@ You are welcome to join their discord channel by clicking the links above and su
 
 # Disclaimer
 
-This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
+* This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
+
+* The author DO NOT affiliated with any contents that may retrieve from any Tinfoil shops NOR taking any responsibility for your actions using this forwarder.
+
+* The user must understand the potential risks that may arise from using this forwarder.
