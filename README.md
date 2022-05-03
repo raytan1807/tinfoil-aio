@@ -163,6 +163,6 @@ You are welcome to join their discord channel by clicking the links above and su
 
 * This is solely meant for educational and personal testing purposes only. Piracy is not supported. Please support the developer by purchasing original.
 
-* The author #DO #NOT affiliated with any contents that may retrieve from any Tinfoil shops #NOR taking any responsibility for your actions using this forwarder.
+* The author DO NOT affiliated with any contents that may retrieve from any Tinfoil shops NOR taking any responsibility for your actions using this forwarder.
 
 * The user must understand the potential risks that may arise from using this forwarder.
