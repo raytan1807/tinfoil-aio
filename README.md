@@ -56,6 +56,13 @@ Host: switch.teknik.app
 Title: teknik
 ```
 ```
+# UnderPrivileged Shop
+Protocol: https
+Host: cdn.discordapp.com
+Path: attachments/531350560549634069/902073525370765352/Under.tfl
+Title: UnderPrivileged Shop
+```
+```
 # A-Network Tinfoil Shop (slower download speed)
 Protocol: nut
 Host: a-network.ca
@@ -118,13 +125,6 @@ Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip
 Title: Rayzen Shop
-```
-```
-# UnderPrivileged Shop (cannot use)
-Protocol: https
-Host: rebrand.ly
-Path: UPStash
-Title: UnderPrivileged Shop
 ```
 ```
 # Turtle Shop (tits) 2 (useless)
